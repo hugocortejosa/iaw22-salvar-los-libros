@@ -6,6 +6,12 @@ Los colores utilizados son cadetblue y lightslategray.
 
 Las fuentes utilizadas son Reem Kufi Fun para los títulos y Noto Sans JP para el texto.
 
-He dejado las fotos de moqups en la carpeta general porque no he sabido meterlas en este archivo.
+A continuación las fotos de moqups
 
-![Index](index.png)
+![Index](./assets/img/index.png)
+
+![Eventos](eventos.png)
+
+![Contacto](contacto.png)
+
+![Login](login.png)
