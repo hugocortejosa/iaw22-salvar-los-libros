@@ -10,8 +10,8 @@ A continuación las fotos de moqups
 
 ![Index](./assets/img/index.png)
 
-![Eventos](eventos.png)
+![Eventos](./assets/img/eventos.png)
 
-![Contacto](contacto.png)
+![Contacto](./assets/img/contacto.png)
 
-![Login](login.png)
+![Login](./assets/img/login.png)
