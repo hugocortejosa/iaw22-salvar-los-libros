@@ -1,6 +1,7 @@
 #general {
     width: auto;
     height: auto;
+    background-color: lightslategrey;
 }
 
 #cabecera {
@@ -38,7 +39,7 @@
     padding: 10px 10px 10px 10px;
 }
 
-#cuerpo h2 {
+#cuerpo h2,h3 {
     font-family: 'Reem kufi Fun', sans-serif;
     padding: 0px 0px 0px 15px;
 }
@@ -83,3 +84,32 @@ table, td, th {
     width: 150px;
     padding: 10px;
 }
+
+#input {
+    display: block;
+}
+
+#caja {
+    margin-left:850px;
+    margin-top: -315px;
+}
+
+#login {
+    padding-left: 20%
+}
+
+#cuerpologin {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: justify;
+    background-color: lightslategray;
+    padding: 10px 10px 10px 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#cuerpologin h2,h3 {
+    font-family: 'Reem kufi Fun', sans-serif;
+}
+
+
+
